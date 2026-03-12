@@ -110,16 +110,16 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
     {
-        name: 'Johny Sins',
-        role: 'Everything @ Naughty America',
-        image: assets.johny,
+        name: 'Richard Michael',
+        role: 'SDE-2 @ Google',
+        image: assets.profile_img_2,
         rating: 5,
         feedback: 'Edemy LMS has revolutionized my teaching experience. Now I can become what is want to be anything astronaut,plumber,teacher,student, etc. Thanks',
     },
     {
         name: 'Dev Prasad',
         role: 'Student @ Oxford',
-        image: assets.me,
+        image: assets.profile_img2,
         rating: 4.8,
         feedback: 'Edemy LMS provides an exceptional learning environment. The structured courses, real-time tracking, and user-friendly interface are top-notch.',
     },
